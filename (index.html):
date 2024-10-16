@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Anas AI Wala | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <img src="your-profile.png" alt="Anas AI Wala" class="profile-pic">
+      <h1>Anas AI Wala</h1>
+      <p class="title">Freelancer | AI Enthusiast | Canva Expert | Podcasting & Social Media Manager</p>
+      <a href="#about" class="btn">Learn More</a>
+    </div>
+  </header>
+
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>Hi! I'm Anas, an 11-year-old student at Rehan School Munawar Campus, passionate about AI and helping others thrive in the AI era. I am a freelancer with expertise in Canva, podcasting, video editing, and social media management.</p>
+    </div>
+  </section>
+
+  <section id="services">
+    <div class="container">
+      <h2>My Services</h2>
+      <div class="service-list">
+        <div class="service-item">
+          <h3>Canva Design</h3>
+          <p>Creative graphic design services for personal and business projects.</p>
+        </div>
+        <div class="service-item">
+          <h3>Podcast Editing</h3>
+          <p>Professional podcast editing services, including sound mixing and publishing.</p>
+        </div>
+        <div class="service-item">
+          <h3>Social Media Management</h3>
+          <p>Effective social media strategies to grow your brand and reach.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Anas AI Wala. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
